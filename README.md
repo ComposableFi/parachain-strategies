@@ -1,4 +1,7 @@
-## Introduction
+
+<img src="assets/composable-logo.png" alt="Composable Finance logo" title="Composable Finance logo" width="600" height="600">
+
+
 
 ### Reimagining Parachain Auctions with an Ethereum Vault Strategy
 
