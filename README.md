@@ -34,10 +34,7 @@ If we take for example the Harvest stablecoins strategies, whenever you invest T
 
 For example, investing $100 in DAI in the Harvest DAI strategy, will get you around 95 fDai and the amount of pAT you’ll receive is equal to the amount of fDai, which is 95 in this case.
 
-Each strategy has its own pAT token, similar to how an AMM transfers LP tokens once you add liquidity.
-One of the use cases for pAT is to mint EQLC (our stablecoin). In DeFi, when you make an investment, your funds are blocked until you withdraw, so we’ve come up with the idea to mint EQLC and use that as an alternative to your initial funds.
-
-A future usage of pAT tokens will also be to obtain Composable Tokens by staking them into a vault type contract. This will be available after TGE.
+Each strategy has its own pAT token, similar to how an AMM transfers LP tokens once you add liquidity. One of the use cases for pAT is to mint EQLC (our stablecoin). This provides additional capital efficiency by having a stablecoin collateralized by locked funds. This will be released at a later date.
 
 
 ## Risks
