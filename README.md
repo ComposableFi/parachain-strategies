@@ -43,7 +43,7 @@ Parachain vault strategies provide an annual percentage yield (APY) for users wh
 
 Opportunities for yield farming have inherent risks associated with them. Please take note of the following risk associated with our solution:
 
-### Smart Contract Related Risks
+#### Smart Contract Related Risks
 
 Even though smart contracts are known for being a stable and a secure way of processing data, bugs can still be discovered, and with the recent uptick in creative hacks, you never know when hackers can interfere with your application, no matter how protected it is. 
 Remediation for this risk includes the following:
@@ -51,7 +51,7 @@ Remediation for this risk includes the following:
  - Another way of tackling the risk is by having a smaller cap per strategy at the beginning, minimizing the available funds from that smart contract. Cap will slowly be increased over time. 
  - We also don’t keep user’s funds in our contract, and we re-route them to yield farms that are proven to be secure so far.
 
-### Market Related Risks
+#### Market Related Risks
 
 DeFi can be a very profitable space, but comes with risks, one of them being the high fluctuations of various assets. Our strategies, depending on the one you chose to invest into, might swap your initial asset to another one. In case of a withdrawal, that asset is swapped back to your initial one. The amount you receive back plus the APY depends on the price variation between the initial asset and the under the hood asset.
 
@@ -60,7 +60,7 @@ Remediation for this risk includes the following:
 - Each strategy will illustrate exactly what happens under the hood in order for users to determine for themselves if they are comfortable taking on a given level of risk.
 - To further mitigate market risk, all the strategies supported through Composable use assets having high liquidity in most of the AMMs, making it harder for people to manipulate them.
 
-### Yield Farms' Related Risks
+#### Yield Farms' Related Risks
 
 All the risks associated with any dApp are also available in the case of yield farming through Composable. 
 
