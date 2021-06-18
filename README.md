@@ -39,10 +39,9 @@ Each strategy has its own pAT token, similar to how an AMM transfers LP tokens o
 
 ## Risks
 
-Parachain vault strategies provide a boosted annual percentage yield (APY) for users who are going to invest and at the same time gives exposure to KSM/DOT auctions to ETH or stable coin holders, opening gates that were chained shut in the past. 
+Parachain vault strategies provide an annual percentage yield (APY) for users who invest and at the same time gives ETH or stable coin holders exposure to KSM/DOT auctions, opening gates that were chained shut in the past.
 
-DeFi can be one of the highest yielding opportunities the crypto space has. However, all high reward options also have a high risk associated with them, including the DeFi process of yield farming.
-Please take note of the following risk associated with our solution:
+Opportunities for yield farming have inherent risks associated with them. Please take note of the following risk associated with our solution:
 
 ### Smart Contract Related Risks
 
