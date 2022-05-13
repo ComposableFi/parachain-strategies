@@ -1,3 +1,6 @@
+**NOTE: THE AUDITS ARE NOW LOCATED [IN OUR MAIN REPOSITORY](https://github.com/ComposableFi/composable/tree/main/audits)**
+
+---
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][twitter-shield]][twitter-url]
