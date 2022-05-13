@@ -1,3 +1,7 @@
+**NOTE: THE AUDITS ARE NOW LOCATED [IN OUR MAIN REPOSITORY](https://github.com/ComposableFi/composable/tree/main/audits)**
+
+---
+
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][twitter-shield]][twitter-url]
 <a href="https://discord.gg/3tHHD4VUKW"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
